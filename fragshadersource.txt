@@ -1,0 +1,11 @@
+#version 330 core
+out vec4 Frag;
+struct Light{
+   vec3 ambience;
+   vec3 diffusion;
+   vec3 specularity;
+};
+uniform Light light;
+void main(){
+Frag=vec4(light.ambience+light.diffusion+light.specularity,1.0);
+}
