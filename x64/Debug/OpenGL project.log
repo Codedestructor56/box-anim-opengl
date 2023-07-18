@@ -1,0 +1,13 @@
+﻿  main.cpp
+E:\Visual Studio\VC\Tools\MSVC\14.35.32215\include\filesystem(13): warning STL4038: The contents of <filesystem> are available only with C++17 or later.
+C:\Users\Lenovo\source\repos\OpenGL project\main.cpp(21,43): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Lenovo\source\repos\OpenGL project\main.cpp(26,41): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Lenovo\source\repos\OpenGL project\main.cpp(34,48): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Lenovo\source\repos\OpenGL project\main.cpp(48,40): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Lenovo\source\repos\OpenGL project\main.cpp(51,40): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Lenovo\source\repos\OpenGL project\main.cpp(54,40): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Lenovo\source\repos\OpenGL project\main.cpp(57,40): warning C4805: '==': unsafe mix of type 'int' and type 'bool' in operation
+C:\Users\Lenovo\source\repos\OpenGL project\main.cpp(79,28): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\source\repos\OpenGL project\main.cpp(464,17): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Lenovo\source\repos\OpenGL project\main.cpp(237,25): warning C4101: 'EBO': unreferenced local variable
+  OpenGL project.vcxproj -> C:\Users\Lenovo\source\repos\OpenGL project\x64\Debug\OpenGL project.exe
